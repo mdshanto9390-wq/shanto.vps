@@ -63,3 +63,4 @@ uvloop
 orjson
 psutil
 emoji
+protobuf_decoder
