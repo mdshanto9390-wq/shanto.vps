@@ -25,3 +25,4 @@ PyJWT
 urllib3
 pycryptodome
 protobuf-decoder
+emoji
