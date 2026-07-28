@@ -64,3 +64,4 @@ orjson
 psutil
 emoji
 protobuf_decoder
+nest_asyncio
